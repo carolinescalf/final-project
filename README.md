@@ -4,10 +4,10 @@ Our final project repository.
 Names: Caroline Scalf, Mason Huntington, Nicholas Zana
 
 Emails:
-Caroline:
+Caroline: crs197@pitt.edu
 Mason:
 Nicholas:
 
 
 Datasets Used:
-Playground: 
+Playground: https://data.wprdc.org/dataset/playgrounds
